@@ -1,0 +1,1 @@
+# Statistical-loan-Analysis-for-Risk-Mitigation-and-Client-Solvency-using-SQL
