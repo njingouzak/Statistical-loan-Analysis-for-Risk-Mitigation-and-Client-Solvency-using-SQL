@@ -65,9 +65,29 @@ In this task, we undertake this analysis to deepen our understanding of interest
 In this task, We undertake the process of uncovering valuable insights into loan amounts and employment status. By aggregating the total loan amount for each employment group, we gain a comprehensive understanding of our lending practices.  
   
 ### Task 4: Charting the Loan Landscape
-We undertake a task to group and count loans by their duration and status. This structured approach reveals patterns and trends across our loan portfolio, offering clarity on how loans are distributed across various durations and repayment statuses. These insights empower us to make more informed decisions, refine our strategies, and tailor our lending products to better meet our clients’ needs.  
+We undertake a task to group and count loans by their duration and status. This structured approach reveals patterns and trends across our loan portfolio, offering clarity on how loans are distributed across various durations and repayment statuses. These insights empower us to make more informed decisions, refine our strategies, and tailor our lending products to better meet our clients’ needs.    
+    
+### Task 5: Employability and Interest Rates
+Our task focuses on exploring the relationship between employment status and interest rates in our loan dataset. By analyzing how employment categories correlate with borrowing costs, we aim to understand the distribution of loans across different employment types. Using SQL’s grouping and aggregation capabilities, we calculate average interest rates for each employment status, revealing key patterns. These insights enable us to refine our lending strategies, offer more competitive and equitable rates, and better serve borrowers based on their employment circumstances—supporting a more inclusive and responsive lending approach.  
   
-
+### Task 6: Homeownership and Interest Rates
+We undertake this task to understand how homeownership influences borrowing costs and to evaluate how loans are distributed between homeowners and non-homeowners. By using SQL to group and aggregate the data, we uncover average interest rates for each group, revealing meaningful differences tied to housing status. These insights allow us to refine our lending strategies—offering more competitive, tailored rates based on homeownership—and support a more inclusive, client-centered approach to financial services.  
+  
+### Task 7: Unpacking Prosper Ratings
+In this task, we aim to explore how creditworthiness reflected in Prosper rating categories affects borrowing costs and shapes loan distribution. By leveraging SQL’s grouping and aggregation capabilities, we derive average interest rates for each rating tier, revealing how risk assessment translates into pricing. These insights help us better align lending terms with borrower profiles, supporting fairer, more strategic, and data-informed credit decisions.  
+    
+### Task 8: Loan Amount and Monthly Payment
+We perform this task to understand how loan size influences borrowers' monthly financial obligations. By leveraging SQL’s grouping and aggregation functions, we analyze average monthly payments across different loan amount categories, revealing how borrowing levels translate into repayment commitments. This insight helps inform more transparent and borrower-friendly lending practices.  
+  
+### Task 9: Examining Interest Rates and Lending Dynamics
+In this task, We aim to explore how investor involvement affects borrowing costs and to better understand how loans are distributed across varying levels of investor participation. Using SQL’s grouping and aggregation capabilities, we uncover average interest rates tied to different investor scenarios—revealing how funding dynamics influence loan pricing and informing more strategic, data-driven lending decisions.  
+  
+### Task 10: Loan Durations and Return Rates
+We embark on this task to understand how loan duration influences investor returns and to evaluate how loans are distributed across different timeframes. By applying SQL’s grouping and aggregation functions, we uncover average return rates for loans of varying lengths, revealing how term length correlates with investment performance. These insights support more informed capital allocation and help align loan structures with investor expectations.  
+  
+### Task 11: Prosper Ratings and Return Rates
+We undertake this task to understand how creditworthiness represented by Prosper rating categories affects investment returns for our stakeholders and to assess how loans are distributed across these risk tiers. By leveraging SQL’s grouping and aggregation capabilities, we derive average return rates for each rating category, revealing the relationship between borrower risk profiles and investor performance. These insights support more strategic investment decisions and help align portfolio allocations with risk-return objectives.  
+  
 
 
 
