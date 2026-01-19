@@ -5,7 +5,7 @@ This project seeks to uncover meaningful trends and patterns that can inform mor
 ## Project Goals
 **The primary goals of this project include:**  
   
-- Driving insights from loan data  
+- Deriving insights from loan data  
 - Analysing trends of loan data by identifying its distribution over time  
 - Exploring pattern in loan allocation across the borrower demographic     
   
