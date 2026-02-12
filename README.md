@@ -1,7 +1,11 @@
 # Statistical loan Analysis for Risk Mitigation and Client Solvency using SQL
 
+---
+## **Overview**
+
 This project seeks to uncover meaningful trends and patterns that can inform more prudent and sustainable lending decisions. By translating data into actionable insights, it supports financial professionals in making well-informed decisions, strengthening risk assessment processes, and promoting responsible lending practices. In the ever-evolving financial services landscape, ensuring responsible lending while minimizing risk remains an ongoing priority. Although financial institutions face complex challenges, these very complexities present a powerful opportunity: leveraging statistical analysis to drive smarter, evidence-based decision-making.
 
+---
 ## Project Goals
 **The primary goals of this project include:**  
   
@@ -9,8 +13,10 @@ This project seeks to uncover meaningful trends and patterns that can inform mor
 - Analysing trends of loan data by identifying its distribution over time  
 - Exploring pattern in loan allocation across the borrower demographic
 - Analysing trends between interest rate and socioeconomic factors     
-  
+
+---
 ## Dataset
+
 This dataset encompasses important informations related to loan granted for different projects. It is structured with the following columns:  
   
 **- Listing Number:** Identifier assigned to each loan  
@@ -27,13 +33,18 @@ This dataset encompasses important informations related to loan granted for diff
 **- Loan Original Amount:** Represents the initial amount of the loan requested by the borrower  
 **- Monthly Loan Payment:** Represents the regular monthly payment the borrower is required to make  
 **- Investors:** Indicates the number of investors participating in the loan
+
+----
 ## Tools
-Python  
-Pandas  
-SQL connector  
-MySQL Workbench  
-  
+
+- Python  
+- Pandas  
+- SQL connector  
+- MySQL Workbench  
+
+----
 ## Project Workflow
+
 ### Module 1
 ### Task 1: Analyzing Load data
 By exploring this dataset, we aim to ensure that each loan decision is grounded in rigorous statistical evaluation, thereby reducing risk and supporting long-term client success. Leveraging Python and library pandas, we transform raw data into actionable insights that foster more informed lending decisions and contribute to a stronger financial future for both clients and institution.  
@@ -112,12 +123,12 @@ Higher-risk loans offered higher potential returns but with greater variability,
 ----
 ## **Conclusion**
 
-This project demonstrates how statistical analysis using Python and SQL can uncover borrower- and loan-level patterns that support risk-aware lending decisions and investor return optimization.
+This project demonstrates how statistical analysis using Python and SQL can uncover borrower and loan-level patterns that support risk-aware lending decisions and investor return optimization.
 
 ----
 ## **Acknowledgement**
 
-I would like to express my sincere gratitude to the leadership of @HiCounselor for providing the materials and guidelines that made this project possible. I also extend my thanks to @Temitayo and @Aderimi for their valuable contributions to the success of the project.
+I would like to express my sincere gratitude to the leadership of **@HiCounselor** for providing the materials and guidelines that made this project possible. I also extend my thanks to **@Temitayo** and **@Aderimi** for their valuable contributions to the success of the project.
 
 
 
