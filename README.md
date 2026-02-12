@@ -97,8 +97,27 @@ We embark on this task to understand how loan duration influences investor retur
 ### Task 11: Prosper Ratings and Return Rates
 We undertake this task to understand how creditworthiness represented by Prosper rating categories affects investment returns for our stakeholders and to assess how loans are distributed across these risk tiers. By leveraging SQL’s grouping and aggregation capabilities, we derive average return rates for each rating category, revealing the relationship between borrower risk profiles and investor performance. These insights support more strategic investment decisions and help align portfolio allocations with risk-return objectives.  
   
+----
+## **Key Results**
 
+**- Credit risk is a primary driver of interest rates**
+Borrowers with higher Prosper credit ratings consistently received lower interest rates, indicating a strong risk-based pricing strategy aligned with borrower creditworthiness.
 
+**- Financial stability influences loan terms**
+Employment status and homeownership were associated with higher loan amounts and more favorable loan conditions, suggesting that lenders prioritize indicators of income stability and asset ownership.
+
+**- Distinct risk–return dynamics for investors**
+Higher-risk loans offered higher potential returns but with greater variability, while lower-risk loans provided more stable yet lower returns, highlighting a clear trade-off between risk and profitability.
+
+----
+## **Conclusion**
+
+This project demonstrates how statistical analysis using Python and SQL can uncover borrower- and loan-level patterns that support risk-aware lending decisions and investor return optimization.
+
+----
+## **Acknowledgement**
+
+I would like to express my sincere gratitude to the leadership of @HiCounselor for providing the materials and guidelines that made this project possible. I also extend my thanks to @Temitayo and @Aderimi for their valuable contributions to the success of the project.
 
 
 
