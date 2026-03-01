@@ -111,13 +111,13 @@ We undertake this task to understand how creditworthiness represented by Prosper
 ----
 ## **Key Results**
 
-**- Credit risk is a primary driver of interest rates**
+**- Credit risk is a primary driver of interest rates:**
 Borrowers with higher Prosper credit ratings consistently received lower interest rates, indicating a strong risk-based pricing strategy aligned with borrower creditworthiness.
 
-**- Financial stability influences loan terms**
+**- Financial stability influences loan terms:**
 Employment status and homeownership were associated with higher loan amounts and more favorable loan conditions, suggesting that lenders prioritize indicators of income stability and asset ownership.
 
-**- Distinct risk–return dynamics for investors**
+**- Distinct risk–return dynamics for investors:**
 Higher-risk loans offered higher potential returns but with greater variability, while lower-risk loans provided more stable yet lower returns, highlighting a clear trade-off between risk and profitability.
 
 ----
